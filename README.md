@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/hafizuddin_a"><img src="https://api.daily.dev/devcards/v2/39gIvAnKhAAiyaHDuTdDf.png?r=fi2&type=default" width="356" alt="Hafizuddin Aminuddin's Dev Card"/></a>
+<a href="https://app.daily.dev/hafizuddin_a"><img src="./devcard.png" width="356" alt="Hafiz's Dev Card"/></a>
+
 
 <!--
 **hafizuddin-a/hafizuddin-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
