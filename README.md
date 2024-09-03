@@ -1,18 +1,21 @@
 <a href="https://app.daily.dev/hafizuddin_a"><img src="./devcard.png" width="356" alt="Hafiz's Dev Card"/></a>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **[Your Current Projects]**.
-- 👯 I’m looking to collaborate on **[Areas or Projects You Want to Collaborate On]**.
-- 🤝 I’m looking for help with **[Specific Areas Where You Need Assistance]**.
-- 🌱 I’m currently learning **[New Skills or Technologies You're Learning]**.
-- 💬 Ask me about **[Your Expertise or Topics You’re Passionate About]**.
-- ⚡ Fun fact: **[Interesting Fact About You]**.
+- 🔭 Currently developing a specialized mouse for people with limited mobility.
+- 👯 Open to collaborations in accessibility tech, healthcare, and space systems.
+- 🤝 Looking for an internship to contribute to impactful projects.
+- 🌱 Learning embedded systems, ARM architecture, RTOS, and web development.
+- 🚀 Minoring in astronomy and have worked on space satellite systems.
+- ✍️ I write on [Medium](https://medium.com/@hafizuddin-a) about Islamic topics and more.
+- 🌍 Outdoor enthusiast: hiking, diving, and exploring nature.
+- ⚡ Fun fact: I love trying new things and exploring uncharted territories.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizuddin-aminuddin) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hafizuddin-a)
 
-## 📝 Medium posts
+## 📝 Medium Posts
+📖 **Check out my latest post below!**
 <!-- BLOG-POST-LIST:START -->
 - [Rediscovering Our Innate Faith](https://medium.com/@hafizuddin-a/rediscovering-our-innate-faith-5e4cfe32d1a8?source=rss-761d07697f8c------2)
 - [Finding Ease in Unexpected Places](https://medium.com/@hafizuddin-a/finding-ease-in-unexpected-places-a-personal-reflection-db1cad061957?source=rss-761d07697f8c------2)
