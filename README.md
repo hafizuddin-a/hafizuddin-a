@@ -53,5 +53,7 @@
 
 # 📝 Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Rediscovering Our Innate Faith](https://medium.com/@hafizuddin-a/rediscovering-our-innate-faith-5e4cfe32d1a8?source=rss-761d07697f8c------2)
+- [Finding Ease in Unexpected Places](https://medium.com/@hafizuddin-a/finding-ease-in-unexpected-places-a-personal-reflection-db1cad061957?source=rss-761d07697f8c------2)
 <!-- BLOG-POST-LIST:END -->
 
