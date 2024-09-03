@@ -25,7 +25,6 @@
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6487024042d1631ea33760c4?variant=dark" alt="roadmap.sh"/></a>
 
 ### Languages:
-![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=flat&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -35,6 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![ASSEMBLY](https://img.shields.io/badge/assembly-ASM-6E4C13.svg?style=flat&logoColor=white)
 
 ### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
