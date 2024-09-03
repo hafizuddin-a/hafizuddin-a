@@ -12,6 +12,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizuddin-aminuddin) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hafizuddin-a)
 
+## 📝 Medium posts
+<!-- BLOG-POST-LIST:START -->
+- [Rediscovering Our Innate Faith](https://medium.com/@hafizuddin-a/rediscovering-our-innate-faith-5e4cfe32d1a8?source=rss-761d07697f8c------2)
+- [Finding Ease in Unexpected Places](https://medium.com/@hafizuddin-a/finding-ease-in-unexpected-places-a-personal-reflection-db1cad061957?source=rss-761d07697f8c------2)
+<!-- BLOG-POST-LIST:END -->
+
 # 💻 Tech Stack:
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6487024042d1631ea33760c4?variant=dark" alt="roadmap.sh"/></a>
 
@@ -50,10 +56,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=hafizuddin-a&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hafizuddin-a&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizuddin-a&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-# 📝 Medium posts
-<!-- BLOG-POST-LIST:START -->
-- [Rediscovering Our Innate Faith](https://medium.com/@hafizuddin-a/rediscovering-our-innate-faith-5e4cfe32d1a8?source=rss-761d07697f8c------2)
-- [Finding Ease in Unexpected Places](https://medium.com/@hafizuddin-a/finding-ease-in-unexpected-places-a-personal-reflection-db1cad061957?source=rss-761d07697f8c------2)
-<!-- BLOG-POST-LIST:END -->
-
