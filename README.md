@@ -17,6 +17,7 @@
 ## 📝 Medium Posts
 📖 **Check out my latest post below!**
 <!-- BLOG-POST-LIST:START -->
+- [The Breath of Mercy](https://medium.com/@hafizuddin-a/the-breath-of-mercy-b8f44aa26990?source=rss-761d07697f8c------2)
 - [A Reminder of Our Need for Allah](https://medium.com/@hafizuddin-a/a-reminder-of-our-need-for-allah-af745ff14074?source=rss-761d07697f8c------2)
 - [Remembering Death to Live](https://medium.com/@hafizuddin-a/remembering-death-to-live-44413f1f1eb3?source=rss-761d07697f8c------2)
 - [Rediscovering Our Innate Faith](https://medium.com/@hafizuddin-a/rediscovering-our-innate-faith-5e4cfe32d1a8?source=rss-761d07697f8c------2)
