@@ -58,8 +58,3 @@
 ### Hardware & IoT:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hafizuddin-a&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hafizuddin-a&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizuddin-a&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
