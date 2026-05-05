@@ -1,7 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="hafizuddin-aminuddin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/hafizuddin-aminuddin?trk=profile-badge">Hafizuddin Aminuddin</a></div>
-
 <a href="https://app.daily.dev/hafizuddin_a"><img src="./devcard.png" width="356" alt="Hafiz's Dev Card"/></a>
 
 # 💫 About Me:
@@ -32,7 +28,7 @@
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
