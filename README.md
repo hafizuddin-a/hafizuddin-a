@@ -1,13 +1,14 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hafizuddin-aminuddin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/hafizuddin-aminuddin?trk=profile-badge">Hafizuddin Aminuddin</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="hafizuddin-aminuddin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/hafizuddin-aminuddin?trk=profile-badge">Hafizuddin Aminuddin</a></div>
 
 <a href="https://app.daily.dev/hafizuddin_a"><img src="./devcard.png" width="356" alt="Hafiz's Dev Card"/></a>
 
 # 💫 About Me:
-- 🔭 Currently developing a specialized mouse for people with limited mobility.
+~~- 🔭 Currently developing a specialized mouse for people with limited mobility.~~
 - 👯 Open to collaborations in accessibility tech, healthcare, and space systems.
-- 🤝 Looking for an internship to contribute to impactful projects.
-- 🌱 Learning embedded systems, ARM architecture, RTOS, and web development.
-- 🚀 Minoring in astronomy and have worked on space satellite systems.
+- 🤝 Looking for a Full-time role to contribute to impactful projects.
+- 🌱 Learning Software Engineering and Machine learning.
 - ✍️ I write on [Medium](https://medium.com/@hafizuddin-a) about Islamic topics and more.
 - 🌍 Outdoor enthusiast: hiking, diving, and exploring nature.
 - ⚡ Fun fact: I love trying new things and exploring uncharted territories.
@@ -31,15 +32,15 @@
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-![ASSEMBLY](https://img.shields.io/badge/assembly-ASM-6E4C13.svg?style=flat&logoColor=white)
 
 ### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
@@ -47,8 +48,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 ### Databases:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
 
@@ -56,7 +55,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-
-### Hardware & IoT:
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
