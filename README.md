@@ -4,6 +4,7 @@
 - 🔭 Currently developing a ConfirmPay and Prayer Live Wallpaper.
 - 🤝 Looking for a Full-time role to contribute to impactful projects.
 - 🌱 Learning Machine Learning/Artificial Intelligence and Software Engineering.
+- 💡 I post my projects on [@madebyhafiz](https://instagram.com/madebyhafiz)
 - ✍️ I write on [Medium](https://medium.com/@hafizuddin-a) about Islamic topics and more.
 - 🌍 Outdoor enthusiast: hiking, diving, and exploring nature.
 - ⚡ Fun fact: I love trying new things and exploring uncharted territories.
