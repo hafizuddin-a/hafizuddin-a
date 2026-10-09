@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I love trying new things and exploring uncharted territories.
 
 <a href="https://confirmpay.link/madebyhafiz?from=button">
-  <img src="https://confirmpay.link/brand/button-pay-light.png"
-    alt="Pay with ConfirmPay"
-    width="240" height="48">
+  <img src="https://confirmpay.link/brand/button-contribute-light.png"
+    alt="Contribute with ConfirmPay"
+    width="292" height="48">
 </a>
 
 ## 🌐 Socials:
