@@ -1,13 +1,18 @@
 <a href="https://app.daily.dev/hafizuddin_a"><img src="./devcard.png" width="356" alt="Hafiz's Dev Card"/></a>
 
 # 💫 About Me:
-~~- 🔭 Currently developing a specialized mouse for people with limited mobility.~~
-- 👯 Open to collaborations in accessibility tech, healthcare, and space systems.
+- 🔭 Currently developing a ConfirmPay and Prayer Live Wallpaper.
 - 🤝 Looking for a Full-time role to contribute to impactful projects.
-- 🌱 Learning Software Engineering and Machine learning.
+- 🌱 Learning Machine Learning/Artificial Intelligence and Software Engineering.
 - ✍️ I write on [Medium](https://medium.com/@hafizuddin-a) about Islamic topics and more.
 - 🌍 Outdoor enthusiast: hiking, diving, and exploring nature.
 - ⚡ Fun fact: I love trying new things and exploring uncharted territories.
+
+<a href="https://confirmpay.link/madebyhafiz?from=button">
+  <img src="https://confirmpay.link/brand/button-pay-light.png"
+    alt="Pay with ConfirmPay"
+    width="240" height="48">
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizuddin-aminuddin) 
